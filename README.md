@@ -1,5 +1,11 @@
 # Running the UI
 
+To install dependencies,
+
+```
+pnpm install
+```
+
 To run the UI only, run the following script from the `web` directory:
 
 ```
